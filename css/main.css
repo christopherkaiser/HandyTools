@@ -1,0 +1,13 @@
+.calculator{
+  width: 200px;
+  margin: 0 auto 0 auto;
+}
+
+.button{
+  width: 50px;
+  margin: 0 5px 5px 5px;
+}
+
+.output{
+  height: 15px;
+}
