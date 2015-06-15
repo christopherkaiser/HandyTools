@@ -11,3 +11,15 @@
 .output{
   height: 15px;
 }
+
+/*stopwatch*/
+
+.stopwatch{
+  width: 200px;
+  margin: 0 auto 0 auto;  
+}
+
+.clock{
+  text-align:center;
+  font-size: 3em;
+}
