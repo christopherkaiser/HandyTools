@@ -15,11 +15,18 @@
 /*stopwatch*/
 
 .stopwatch{
-  width: 200px;
+  width: 300px;
   margin: 0 auto 0 auto;  
 }
 
 .clock{
   text-align:center;
   font-size: 3em;
+}
+
+/*random*/
+
+.randomNumber{
+  width: 300px;
+  margin: 0 auto 0 auto;  
 }
